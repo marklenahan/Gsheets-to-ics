@@ -38,7 +38,7 @@ You can have rows with invalid dates; e.g. event date is not confirmed, use "TBD
 
 iCal entry will only be written if:
 - name, quarter, organiser, city, country, region are not blank
-- organiser is Q1, Q2, Q3, Q4
+- quarter is one of Q1, Q2, Q3, Q4
 - start and end are valid dates
 - the end date is > 30 days in the past
 - end date >= start date
