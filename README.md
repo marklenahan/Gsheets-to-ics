@@ -50,7 +50,6 @@ The table stops being scanned when the following columns are empty:
 ```name, quarter, start, end, city, country, region```
 So don't put any blank rows in your table, and always leave a blank row immediately after the last row.
 
-There are more details in (Gsheets-to-ics.md) - the code itself was generated with Claude Code and reviewed and tested manually.
-The larger md file can probably be used to regenerate the code, or equip Claude with enough context for you to make changes.
+There are more details in [Gsheets-to-ics.md](Gsheets-to-ics.md) - the code itself was generated with Claude Code and reviewed and tested manually. That md file can probably be used to regenerate the code, or equip Claude with enough context for you to make changes.
 
 Mark Lenahan - September 2026
